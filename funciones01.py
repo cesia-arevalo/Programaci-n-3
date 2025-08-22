@@ -1,0 +1,9 @@
+#crear la funcion
+def suma (num1):
+    return num1 ** 2
+
+#solicita la variable
+num1 = int(input('introduce el numero para calcular:'))
+
+#imprimir el resultado
+print(f'El cuadrado de {num1} es: {cuadrado_numero(num1)}')
